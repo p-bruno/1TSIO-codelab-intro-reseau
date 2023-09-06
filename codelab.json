@@ -1,0 +1,18 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-09-05T16:26:47Z",
+  "id": "./Ressources/1TSIO-codelab-intro-reseau",
+  "duration": 45,
+  "title": "TP : Introduction au réseau",
+  "summary": "",
+  "source": "1Z6rwDirOpBFALm6PnQLOHlKg330XwS4HwRypokwYKhk",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "feedback": "Un lien vers lequel les utilisateurs peuvent signaler un bug",
+  "url": "./Ressources/1TSIO-codelab-intro-reseau"
+}
